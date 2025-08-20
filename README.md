@@ -894,3 +894,4 @@ Here are some examples of template:
 * [BetterForward](https://github.com/SideCloudGroup/BetterForward) by [SideCloud](https://github.com/SideCloudGroup). Probably the most reliable Message Forwarding Bot in Telegram via the Topic feature.
 
 **Want to have your bot listed here? Just make a pull request. Only bots with public source code are accepted.**
+gh
